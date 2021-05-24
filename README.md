@@ -1,5 +1,5 @@
-#Created with React and Dgraph cloud.
-next: fix filterfunction, more design components, delete pokemon, add pokemon.
+# Created with React and Dgraph cloud.
+* next: fix filterfunction, more design components, delete pokemon, add pokemon.
 
 # Getting Started with Create React App
 
