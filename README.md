@@ -1,3 +1,6 @@
+#Created with React and Dgraph cloud.
+next: fix filterfunction, more design components, delete pokemon, add pokemon.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
